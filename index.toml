@@ -6,8 +6,18 @@ hash = "6b05f3d7ec7e979133e3caf44600d4717870071b9f061198ee1b3adb47eeffaf"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "f86ba6585c026d2f1ad11ad0de9cd08707e96d2e3211e23f6e330095f37f4b8f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
 
 [[files]]
@@ -71,8 +81,23 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "dfc072c1d0e103acc7ecaf1e5778daf7a3cbce9069460f9990b46fd6b9cca4d5"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
 metafile = true
 
 [[files]]
@@ -91,13 +116,48 @@ hash = "0f8b748652e9adeb12bb3622aed810d3a536a48919d42e319fcb3d07c43974e3"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "eb0f42ccd89fea2e97f49ac596c719dd22d62e6525e7f0ae7ac5ce7f637da862"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
 metafile = true
 
 [[files]]
+file = "mods/shield-api.pw.toml"
+hash = "b09902f82578ffc80dbf1d84aee798c53de0ac8c8b89a5e6284b74e6e32c690a"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "6677b688d4d6ac20c1e9fe5df29f1e48931aca9275e0baa946fa278bf0f9f15d"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d752b843672914045093b09d87f4e33f6b990638be3955d1a4da7bc8c97a0c71"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
 metafile = true
 
 [[files]]
@@ -118,4 +178,59 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "982ddeeb761a8e001ed2b0487b916bb08d012666d369c7e6aeb0e5d950b6e99f"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "7dd536d000999274472fa6762bcd49deaeb301fd0889c32723c1129db2400561"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "0958d9f10d0e8fb282b8e684b05b37b29aca826d48deeec3e44171857c99aca5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "c360a4aef0ce719d385529002ba157a731d572b73cefb573c763d71d54039078"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "f23d28e95b21a9655e615390a560bc66f3cb87610ac38cd9d849129d0600a766"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "0b5eb310353cce6e94ffb0558cb713815b63328e6e96f804f147b5291c237a98"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "7e89ac9ea56f87a811a289d474b8ab4fe46d7a235b4c6ef4767e5099967d656e"
 metafile = true

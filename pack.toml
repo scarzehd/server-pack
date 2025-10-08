@@ -1,12 +1,12 @@
 name = "S. C. Arzehd's Galaxy of Games"
 author = "scarzehd"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43981e7e12891117ba2b3116fc46d5ed06178fca90816cfa97edf272999d4009"
+hash = "250a48036115af65c43b2ef39adb5a101e2080b56e65c25062c2f2ce477c6773"
 
 [versions]
 fabric = "0.17.2"
