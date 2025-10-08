@@ -1,0 +1,13 @@
+name = "Friend Server Pack"
+author = "scarzehd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9560ade92433988e75504c5c3b8caa8edfcdcf3f316516cf571bb4c92d4eeb42"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
